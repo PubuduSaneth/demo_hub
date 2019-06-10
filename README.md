@@ -27,3 +27,11 @@
 
 #### 7. Dockerfile
 * Builds an docker image containing R packages - HMMcopy and GenomeInfoDb
+
+#### 8. Generic python modules (scripts) that can be imported into a given python script
+* ecdf.py: Compute ECDF for a one-dimensional array of measurements
+* ffind.py: Find files in a given folder using a pattern
+* fgenes.py: Find
+    * genes in given coordinates,
+    * coordinates of given genes or
+    * annotate intervals with cytoband notation
