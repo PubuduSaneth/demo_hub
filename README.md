@@ -13,7 +13,7 @@
 
 #### [3. MonteCarlo_based-hotspot_validation.ipynb](https://github.com/PubuduSaneth/demo_hub/blob/master/MonteCarlo_based-hotspot_validation.ipynb)
 * Monte Carlo simulation based permutation test to compare gene expression profiles (log2 fold change from DeSeq2) of three datasets
-* Perform KS test (Kolmogorov-Smirnov) using permutation test
+* Perform KS test (Kolmogorov-Smirnov) using a permutation-based method
     - [Alternative nbviewer link](https://nbviewer.jupyter.org/github/PubuduSaneth/demo_hub/blob/master/MonteCarlo_based-hotspot_validation.ipynb)
 
 #### [4. KMeans_clustering_TSNE_Viz.ipynb](https://github.com/PubuduSaneth/demo_hub/blob/master/KMeans_clustering_TSNE_Viz.ipynb)
