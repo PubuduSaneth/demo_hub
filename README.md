@@ -3,19 +3,23 @@
 ### Description of each script
 #### [1. TCGA.level3_segment_analysis.ipynb](https://github.com/PubuduSaneth/demo_hub/blob/master/TCGA.level3_segment_analysis.ipynb)
 * Copy Number estimation and quality control of TCGA level 3 CNV data
+    - [Alternative nbviewer link](https://nbviewer.jupyter.org/github/PubuduSaneth/demo_hub/blob/master/TCGA.level3_segment_analysis.ipynb)
 
 #### [2. HB_output_analysis_amps.ipynb](https://github.com/PubuduSaneth/demo_hub/blob/master/HB_output_analysis_amps.ipynb)
 * Read Genomic HyperBrowser output file
 * The Genomic HyperBrowser can be used to identify genomic regions containing CNVs that are closer to chromatin domains (e.g. TADs) more than expected by chance.
 * This script can read the output of the Genomic HyperBrowser
+    - [Alternative nbviewer link](https://nbviewer.jupyter.org/github/PubuduSaneth/demo_hub/blob/master/HB_output_analysis_amps.ipynb)
 
 #### [3. MonteCarlo_based-hotspot_validation.ipynb](https://github.com/PubuduSaneth/demo_hub/blob/master/MonteCarlo_based-hotspot_validation.ipynb)
 * Monte Carlo simulation based permutation test to compare gene expression profiles (log2 fold change from DeSeq2) of three datasets
 * Perform KS test (Kolmogorov-Smirnov) using permutation test
+    - [Alternative nbviewer link](https://nbviewer.jupyter.org/github/PubuduSaneth/demo_hub/blob/master/MonteCarlo_based-hotspot_validation.ipynb)
 
 #### [4. KMeans_clustering_TSNE_Viz.ipynb](https://github.com/PubuduSaneth/demo_hub/blob/master/KMeans_clustering_TSNE_Viz.ipynb)
 * Cluster genomic regions based on somatic CNV counts
 * Visualise clusters using t-SNE
+    - [Alternative nbviewer link](https://nbviewer.jupyter.org/github/PubuduSaneth/demo_hub/blob/master/KMeans_clustering_TSNE_Viz.ipynb)
 
 #### [5. runCBS.R](https://github.com/PubuduSaneth/demo_hub/blob/master/runCBS.R)
 * Run Circular Binary Segmentation (CBS) to segment the source file
@@ -34,4 +38,4 @@
 * [fgenes.py](https://github.com/PubuduSaneth/demo_hub/blob/master/fgenes.py): Find
     * genes in given coordinates,
     * coordinates of given genes or
-    * annotate intervals with cytoband notation
+    * cytoband notation of given coordinates
